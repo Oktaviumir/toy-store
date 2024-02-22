@@ -1,0 +1,22 @@
+
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(±§ßêıÿÿÿÿ8óäœşÜ1
+G	java:S106"+Replace this use of System.out by a logger.(®‚Ÿœ8„êœşÜ1
+G	java:S106"+Replace this use of System.out by a logger.(¬¿¢Ò8“êœşÜ1
+F	java:S106"+Replace this use of System.out by a logger.(‹¦­u8«êœşÜ1
+G	java:S106 "+Replace this use of System.out by a logger.(”†¼¡8±êœşÜ1
+t
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ûË¼Şüÿÿÿÿ8åêœşÜ1
+L	java:S106M"+Replace this use of System.out by a logger.(—¡Äèøÿÿÿÿ8«ëœşÜ1
+G	java:S106P"+Replace this use of System.out by a logger.(¬¿¢Ò8²ëœşÜ1
+L	java:S106X"+Replace this use of System.out by a logger.(³ÁÎóùÿÿÿÿ8òìœşÜ1
+L	java:S106^"+Replace this use of System.out by a logger.(ÄéÃ‹ùÿÿÿÿ8ıìœşÜ1
+F
+java:S1905h")Remove this unnecessary cast to "double".(¨¾Óí8íœşÜ1
+G	java:S106€"+Replace this use of System.out by a logger.(‹¦­u8½íœşÜ1
+M	java:S106ƒ"+Replace this use of System.out by a logger.(ÕÌüÅıÿÿÿÿ8ÃíœşÜ1
+H	java:S106†"+Replace this use of System.out by a logger.(´˜–è8ÉíœşÜ1
+M	java:S106"+Replace this use of System.out by a logger.(¾Ô’øÿÿÿÿ8ÒíœşÜ1
+M	java:S106"+Replace this use of System.out by a logger.(•¸¨Œúÿÿÿÿ8ØíœşÜ1
+H	java:S106”"+Replace this use of System.out by a logger.(ÌË§„8âíœşÜ1
